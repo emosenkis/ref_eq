@@ -1,0 +1,9 @@
+[package]
+name = "ref_eq"
+version = "0.1.0"
+authors = ["Eitan Mosenkis <eitan@mosenkis.net>"]
+description = "Determine if two borrowed pointers point to the same thing."
+repository = "https://github.com/emosenkis/ref_eq"
+license = "MIT/Apache-2.0"
+
+[dependencies]
